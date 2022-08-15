@@ -1,3 +1,61 @@
+#Project title
+
+#Mobile-Auto-Detailing
+
+simple car detailing website project
+
+#website link
+
+https://mobile-auto-detailing.herokuapp.com/
+
+#Project Description
+
+A simple business website to show customer about our services and our work
+
+first time user can create a account
+
+A registered user can login and logout their account
+
+user can also fill up the talk to us form to leave their message
+
+#Technologies
+
+Python
+
+Django framework
+
+Javascript
+
+Html
+
+Css
+
+Bootstrap
+
+heroku
+
+sqlite
+
+#What i learn
+
+model view controller (MVC) architecture
+
+Django class based view
+
+relational database ("Model")
+
+web templating system ("View")
+
+regular-expression-based URL dispatcher ("Controller")
+
+Object-Relational mapper(ORM), data model
+
+#Credits
+
+Tutorial from JustDjango from youtube
+
+https://www.youtube.com/watch?v=YZvRrldjf1Y&t=6406s
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
