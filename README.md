@@ -1,60 +1,46 @@
 #Project title
 
-#Mobile-Auto-Detailing
-
-simple car detailing website project
+travel-advisor-web-app
 
 #website link
 
-https://mobile-auto-detailing.herokuapp.com/
+https://travel-advisor-web-app.netlify.app/
 
 #Project Description
 
-A simple business website to show customer about our services and our work
-
-first time user can create a account
-
-A registered user can login and logout their account
-
-user can also fill up the talk to us form to leave their message
+Build and Deploy an advanced Travel Companion Application using Google Maps. With Geolocation, Google Maps API, Searching for places, Fetching restaurants, hotels and attractions based on location from specialized Rapid APIs, data filtering
 
 #Technologies
 
-Python
+JavaScript
 
-Django framework
+React framework
 
-Javascript
+Material UI
 
-Html
+Netlify
 
-Css
+Google map react
 
-Bootstrap
+axios
 
-heroku
 
-sqlite
 
-#What i learn
+#What i learned
 
-model view controller (MVC) architecture
+Advanced React Best Practices, such as folder & file structure, hooks, and refs
 
-Django class based view
+Creating a User Interface using Material UI
 
-relational database ("Model")
+Working with Google Maps API
 
-web templating system ("View")
-
-regular-expression-based URL dispatcher ("Controller")
-
-Object-Relational mapper(ORM), data model
+fetching data from unlimited sources using RapidAPI
 
 #Credits
 
-Tutorial from JustDjango from youtube
+Tutorial from JavaScript Mastery from youtube
 
-https://www.youtube.com/watch?v=YZvRrldjf1Y&t=6406s
+https://www.youtube.com/watch?v=UKdQjQX1Pko&t=1s
 
 # Getting Started with Create React App
 
