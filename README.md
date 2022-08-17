@@ -25,17 +25,6 @@ Google map react
 axios
 
 
-
-#What i learned
-
-Advanced React Best Practices, such as folder & file structure, hooks, and refs
-
-Creating a User Interface using Material UI
-
-Working with Google Maps API
-
-fetching data from unlimited sources using RapidAPI
-
 #Credits
 
 Tutorial from JavaScript Mastery from youtube
